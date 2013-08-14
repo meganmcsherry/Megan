@@ -1,0 +1,31 @@
+h1{
+font-family: Helvetica, Sans-serif;
+font-size: 50px;
+clear: both;
+width: 400px;
+text-align: center;
+margin: 0 auto -30px auto;
+height: 50px;
+}
+
+div{
+	float: right;
+	font-family: Helvetica, Sans-serif;
+	font-style: bold;
+	color: black;
+
+}
+
+img{
+	width: 200px;
+}
+
+.title .season{
+	line-height: 1em;
+	clear: both;
+}
+
+body{
+	background-image: url(../images/DarkGrey_Chevron.jpg);
+
+}
